@@ -30,7 +30,7 @@ This project is a web application for registering students, displaying their det
 
 ## Live Demo
 
-[Live Demo]()
+[Live Demo](https://praveen-student-from.netlify.app/)
 
 ## ScreenShots
 
