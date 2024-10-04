@@ -20,7 +20,7 @@ const Modal = ({ viewingUser, onClose }) => {
         </h3>
         <div className="flex flex-col gap-1 items-start">
           <p>
-            <strong>Contact Name:</strong>{" "}
+            <strong>Student Name:</strong>{" "}
             {`${viewingUser.firstName} ${viewingUser.lastName}`}
           </p>
           <p>
